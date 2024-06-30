@@ -1,0 +1,9 @@
+| **NIST Cybersecurity Framework** | **Description**                                                                                                                                                                     |
+|----------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| **Summary**                       | The company experienced a DDoS attack via ICMP flood, causing all network services to cease.                                                                                       |
+| **Identify**                      | Malicious actors targeted the company with an ICMP flood attack, impacting the entire internal network.                                                                             |
+| **Protect**                       | Implemented a new firewall rule to limit ICMP packet rates and deployed IDS/IPS to filter suspicious ICMP traffic.                                                                  |
+| **Detect**                        | Configured firewall for source IP verification and utilized network monitoring software to detect abnormal traffic patterns.                                                       |
+| **Respond**                       | Isolated affected systems, restored critical network services, analyzed network logs for suspicious activity, and reported incidents to management and authorities.                |
+| **Recover**                       | Restored network services, implemented firewall rules against future attacks, and prioritized critical service restoration followed by non-critical services.                       |
+| **Reflections/Notes**             | Emphasizes the need for proactive monitoring and response capabilities to mitigate DDoS attacks effectively. Continual review and enhancement of security measures are crucial.  |
