@@ -1,16 +1,39 @@
 # Cybersecurity Portfolio
 
-Welcome to my Cybersecurity Portfolio repository! This repository showcases my projects, skills, and expertise in the field of cybersecurity. Here you will find a collection of work highlighting various aspects of cybersecurity, including network security, cloud security, incident response, and more.
+Welcome to my Cybersecurity Portfolio repository! This repository showcases my projects, skills, and expertise in the field of cybersecurity. Below are highlights of the projects and activities included in this portfolio:
 
-## Contents
+## Portfolio Contents
 
-- **Project Highlights:** Explore detailed projects and labs demonstrating hands-on experience and skills in cybersecurity practices.
-- **Documentation:** In-depth analysis, reports, and research papers related to cybersecurity topics.
-- **Code Samples:** Scripts and tools developed to address security challenges and enhance understanding.
+1. **Drafting a Professional Statement**
+   - Overview of my career goals, strengths, and values in cybersecurity.
+
+2. **Conducting a Security Audit**
+   - Detailed analysis and recommendations based on a comprehensive security audit.
+
+3. **Analyzing Network Structure and Security**
+   - Insights and findings from assessing network architecture and security measures.
+
+4. **Using Linux Commands to Manage File Permissions**
+   - Practical demonstrations and scripts for managing file permissions in Linux environments.
+
+5. **Applying Filters to SQL Queries**
+   - Techniques and examples of applying filters to enhance SQL query security.
+
+6. **Identifying Vulnerabilities for a Small Business**
+   - Assessment report identifying and prioritizing vulnerabilities in a small business context.
+
+7. **Documenting Incidents with an Incident Handler’s Journal**
+   - Documentation and analysis of security incidents using an incident handler's journal.
+
+8. **Importing and Parsing a Text File in a Security-Related Scenario**
+   - Tools and methods for importing and parsing text files to enhance security measures.
+
+9. **Creating or Revising a Resume**
+   - Tips and best practices for creating or updating a resume tailored for cybersecurity roles.
 
 ## About Me
 
-My name is Abdisamad Elmi Yusuf. I am passionate about safeguarding organizations and individuals against cyber threats, ensuring resilience and trust in digital environments. With a focus on network security, cloud security, and incident response, I am committed to contributing effectively to the cybersecurity landscape.
+My name is Abdisamad Elmi Yusuf. I am passionate about cybersecurity and dedicated to enhancing digital security for organizations and individuals. This portfolio reflects my commitment to continuous learning and contributing effectively to the cybersecurity field.
 
 ## Contact
 
@@ -18,4 +41,3 @@ My name is Abdisamad Elmi Yusuf. I am passionate about safeguarding organization
 - LinkedIn: [Abdisamad Yusuf](https://www.linkedin.com/in/abdisamadjoe/)
 
 Feel free to explore the repository and reach out for collaborations or inquiries!
-
