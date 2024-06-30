@@ -3,7 +3,7 @@ Here's the revised version of your controls and compliance checklist in Markdown
 ```markdown
 # Controls and Compliance Checklist Exemplar
 
-## Controls Assessment Checklist
+## Controls Assessment Checklist 
 
 | Yes | No | Control | Explanation |
 | --- | --- | ------- | ----------- |
