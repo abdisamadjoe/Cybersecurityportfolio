@@ -40,4 +40,4 @@ My name is Abdisamad Elmi Yusuf. I am passionate about cybersecurity and dedicat
 - Email: abdisamadjoe@gmail.com
 - LinkedIn: [Abdisamad Yusuf](https://www.linkedin.com/in/abdisamadjoe/)
 
-Feel free to explore the repository and reach out for collaborations or inquiries!
+
